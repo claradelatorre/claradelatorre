@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/claradlatorre" target="blank"><img src="https://img.shields.io/twitter/follow/claradlatorre?logo=twitter&style=for-the-badge" alt="claradlatorre" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Algorithms.**
+- 📚 I’m currently learning **Machine Learning and Algorithms.**
 
 - 📫 How to reach me **claradelatorret@gmail.com**
 
