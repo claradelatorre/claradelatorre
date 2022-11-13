@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Clara.</h1>
 <h3 align="center">Computer engineer student.</h3>
 
-<p align="left"> <a href="https://twitter.com/claradlatorre" target="blank"><img src="https://img.shields.io/twitter/follow/claradlatorre?logo=twitter&style=for-the-badge" alt="claradlatorre" /></a> </p>
+
 
 - 📚 I’m currently learning **Machine Learning and Algorithms.**
 
